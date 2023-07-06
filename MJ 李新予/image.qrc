@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1m.png</file>
+        <file>image/9m.png</file>
+        <file>image/1s.png</file>
+        <file>image/2p.png</file>
+        <file>image/2s.png</file>
+        <file>image/3p.png</file>
+        <file>image/3s.png</file>
+        <file>image/4p.png</file>
+        <file>image/4s.png</file>
+        <file>image/5p.png</file>
+        <file>image/5pr.png</file>
+        <file>image/5s.png</file>
+        <file>image/5sr.png</file>
+        <file>image/6p.png</file>
+        <file>image/6s.png</file>
+        <file>image/7p.png</file>
+        <file>image/7s.png</file>
+        <file>image/8p.png</file>
+        <file>image/8s.png</file>
+        <file>image/9p.png</file>
+        <file>image/9s.png</file>
+        <file>image/chuun.png</file>
+        <file>image/don.png</file>
+        <file>image/haku.png</file>
+        <file>image/hatsu.png</file>
+        <file>image/nan.png</file>
+        <file>image/pei.png</file>
+        <file>image/shii.png</file>
+        <file>image/2m.png</file>
+        <file>image/3m.png</file>
+        <file>image/4m.png</file>
+        <file>image/5m.png</file>
+        <file>image/5mr.png</file>
+        <file>image/6m.png</file>
+        <file>image/7m.png</file>
+        <file>image/8m.png</file>
+        <file>image/1p.png</file>
+        <file>image/gang.png</file>
+        <file>image/peng.png</file>
+        <file>image/skip.png</file>
+        <file>image/babei.png</file>
+        <file>image/ron.png</file>
+        <file>image/background.png</file>
+    </qresource>
+    <qresource prefix="/new"/>
+</RCC>

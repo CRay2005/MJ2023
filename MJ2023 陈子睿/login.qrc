@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/logn_account.png</file>
+        <file>image/logn_password.png</file>
+        <file>image/login_background1.png</file>
+        <file>image/login_background2.png</file>
+        <file>image/yasuo.gif</file>
+        <file>music/LOL.mp3</file>
+    </qresource>
+</RCC>
